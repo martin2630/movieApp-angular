@@ -1,6 +1,7 @@
 # Peliculas
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
+Este proyecto utiliza el API de themoviedb para obtener las peliculas.
+ 
+https://www.themoviedb.org/settings/api
 
 ## Development server
 
